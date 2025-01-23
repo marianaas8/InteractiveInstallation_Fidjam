@@ -49,8 +49,31 @@ Through these intuitive physical interactions, users can adjust the **volume** a
 ## **Setup Instructions**
 
 ### **1. Print the Interactive Surface and Cubes**
-   - Print the `surface.pdf` file, prefereby in an A3 format.
-   - For the cubes, you can print the `cubes.pf` file and make your own diy cubes, associating correctly the symbols with the genre/ instruments.
+   - **Interactive Surface**: Print the `surface.pdf` file, preferably in **A3** format for better scaling and visibility.
+   - **Cubes**: Print the `cubes.pdf` file to create your own DIY cubes. Make sure to associate the fiducial markers correctly with each cube face. Below are the markers for each genre and instrument:
+   
+     - **Genre Cube**:
+       - **Face 1**: Pop - Marker ID: `11`
+       - **Face 2**: Hip-Hop - Marker ID: `6`
+       - **Face 3**: Rock - Marker ID: `12`
+   
+     - **Instrument Cubes**: Each instrument cube has three faces, representing different sound samples. These faces are associated with different marker IDs for each instrument:
+       - **Drums Cube**:
+         - Face 1: Marker ID `14`
+         - Face 2: Marker ID `16`
+         - Face 3: Marker ID `22`
+       - **Lead Cube**:
+         - Face 1: Marker ID `19`
+         - Face 2: Marker ID `13`
+         - Face 3: Marker ID `1`
+       - **Vox Cube**:
+         - Face 1: Marker ID `23`
+         - Face 2: Marker ID `20`
+         - Face 3: Marker ID `15`
+       - **Bass Cube**:
+         - Face 1: Marker ID `0`
+         - Face 2: Marker ID `21`
+         - Face 3: Marker ID `18`
 
 ### **2. Camera Setup**
    - Position the **camera** directly above the printed **interactive surface**. Make sure the entire surface is visible in the camera’s field of view.

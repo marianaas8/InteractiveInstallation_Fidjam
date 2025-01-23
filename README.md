@@ -8,19 +8,19 @@
 
 ### **1. Physical Interaction**
 - The installation features **five cubes**, each representing a different aspect of music composition:
-  - **Genre Cube**:  
-    One cube is used to select the genre, with three faces corresponding to:
+  - **Genre Cube** - One cube is used to select the genre, with three faces corresponding to:
     - **Pop**
     - **Hip-Hop**
     - **Rock**
-    Users can place this cube in any position on the surface to choose the musical style they want to explore.
 
-  - **Instrument Cubes**:  
-    The other four cubes represent the instruments:  
+     Users can place this cube in any position on the surface to choose the musical style they want to explore.
+
+  - **Instrument Cubes** - The other four cubes represent the instruments:  
     - **Drums**  
     - **Lead**  
     - **Vocals (Vox)**  
     - **Bass**  
+    
     Each instrument cube has three faces, each representing a unique sound sample for that instrument. By positioning the cube with the desired face facing up, the corresponding sound sample is activated.
 
 <img src="https://github.com/user-attachments/assets/75a47c66-4ad6-46d3-bb53-e1b96f5f1825" width="500"/>

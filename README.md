@@ -23,8 +23,7 @@
     - **Bass**  
     Each instrument cube has three faces, each representing a unique sound sample for that instrument. By positioning the cube with the desired face facing up, the corresponding sound sample is activated.
 
-![cubes](https://github.com/user-attachments/assets/75a47c66-4ad6-46d3-bb53-e1b96f5f1825)
-
+<img src="https://github.com/user-attachments/assets/75a47c66-4ad6-46d3-bb53-e1b96f5f1825" width="500"/>
 
 ---
 
@@ -42,7 +41,7 @@ The interactive surface is used to control **volume** and **sound filtering**:
 
 Through these intuitive physical interactions, users can adjust the **volume** and apply **dynamic filters** in real time, creating an immersive and hands-on experience for shaping music.
 
-![surface](https://github.com/user-attachments/assets/2df88447-04d3-4ca9-be3f-2aa9a21d212a)
+<img src="https://github.com/user-attachments/assets/2df88447-04d3-4ca9-be3f-2aa9a21d212a" width="500"/>
 
 ---
 
@@ -100,5 +99,6 @@ Through these intuitive physical interactions, users can adjust the **volume** a
    - Once the sketch is running:
       - Place the **Genre Cube** and **Instrument Cubes** on the interactive surface. 
       - Move the cubes vertically to control volume and horizontally to adjust filters.
-      - Enjoy creating your personalized music mix in real time! 
+  
+Enjoy creating your personalized music mix in real time, with **Fidjam**! 
 

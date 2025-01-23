@@ -23,6 +23,9 @@
     - **Bass**  
     Each instrument cube has three faces, each representing a unique sound sample for that instrument. By positioning the cube with the desired face facing up, the corresponding sound sample is activated.
 
+![cubes](https://github.com/user-attachments/assets/75a47c66-4ad6-46d3-bb53-e1b96f5f1825)
+
+
 ---
 
 ### **2. Interactive Surface Controls**
@@ -39,26 +42,40 @@ The interactive surface is used to control **volume** and **sound filtering**:
 
 Through these intuitive physical interactions, users can adjust the **volume** and apply **dynamic filters** in real time, creating an immersive and hands-on experience for shaping music.
 
+![surface](https://github.com/user-attachments/assets/2df88447-04d3-4ca9-be3f-2aa9a21d212a)
+
 ---
 
 ## **Setup Instructions**
 
-### **1. Download Fidjam**
+### **1. Print the Interactive Surface and Cubes**
+   - Print the `surface.pdf` file, prefereby in an A3 format.
+   - For the cubes, you can print the `cubes.pf` file and make your own diy cubes, associating correctly the symbols with the genre/ instruments.
+
+### **2. Camera Setup**
+   - Position the **camera** directly above the printed **interactive surface**. Make sure the entire surface is visible in the camera’s field of view.
+   - The camera should be stable and not moved during interaction with the cubes to ensure accurate tracking.
+
+### **3. Download Fidjam**
    - Download the `Fidjam.zip` file and unzip it.
 
-### **2. Install Required Software**
+### **4. Install Required Software**
    - [Download Processing](https://processing.org/download) and install it.
    - Install the following Processing libraries:
      - **Minim** (via the Library Manager).
      - **TuioProcessing** (from [TUIO.org](http://prdownloads.sourceforge.net/reactivision/TUIO11_Processing-1.1.5.zip?download)).
    - [Download Reactivision](http://prdownloads.sourceforge.net/reactivision/reacTIVision-1.5.1-win64.zip?download) for marker tracking.
 
-### **3. Start Reactivision**
-   - Open the Reactivision app.
+### **5. Start Reactivision**
+   - Open the Reactivision app and leave it open.
+   - **Make sure Reactivision is using the correct camera feed** for marker tracking. The camera connected to your computer must be selected as the video input in the Reactivision settings.
+   - Ensure that Reactivision is properly detecting the markers on the interactive surface.
 
-### **4. Run Fidjam**
+### **6. Run Fidjam**
    - Open the `Fidjam.pde` file in Processing.
    - Press the **Run** button (play icon) to start the sketch.
-   - Place the cubes on the Reactivision surface to interact with the audio.
-
+   - Once the sketch is running:
+      - Place the **Genre Cube** and **Instrument Cubes** on the interactive surface. 
+      - Move the cubes vertically to control volume and horizontally to adjust filters.
+      - Enjoy creating your personalized music mix in real time! 
 

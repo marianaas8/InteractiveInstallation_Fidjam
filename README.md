@@ -1,4 +1,4 @@
-# Fidjam: Interactive Music Mixer with TUIO and Minim
+# Fidjam: Interactive Installation
 
 **Fidjam** is an immersive and participatory interactive music mixer that blends **music**, **technology**, and **creativity**. This installation provides an intuitive and engaging way for participants to explore and interact with music using physical cubes and an interactive surface, leveraging the **reacTIVision framework** to track fiducial markers on the cubes.
 
